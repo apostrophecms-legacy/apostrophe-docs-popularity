@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-docs-popularity
 
 Tracks the popularity of your documents according to various metrics of your choice,
